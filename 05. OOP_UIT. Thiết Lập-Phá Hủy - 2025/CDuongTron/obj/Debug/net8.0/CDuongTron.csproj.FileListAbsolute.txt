@@ -1,0 +1,4 @@
+D:\Thiet_ke_lop\05. OOP_UIT. Thiết Lập-Phá Hủy - 2025\CDuongTron\obj\Debug\net8.0\CDuongTron.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thiet_ke_lop\05. OOP_UIT. Thiết Lập-Phá Hủy - 2025\CDuongTron\obj\Debug\net8.0\CDuongTron.AssemblyInfoInputs.cache
+D:\Thiet_ke_lop\05. OOP_UIT. Thiết Lập-Phá Hủy - 2025\CDuongTron\obj\Debug\net8.0\CDuongTron.AssemblyInfo.cs
+D:\Thiet_ke_lop\05. OOP_UIT. Thiết Lập-Phá Hủy - 2025\CDuongTron\obj\Debug\net8.0\CDuongTron.csproj.CoreCompileInputs.cache

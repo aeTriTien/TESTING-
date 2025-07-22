@@ -1,0 +1,4 @@
+D:\Thiet_ke_lop\05. OOP_UIT. Thiết Lập-Phá Hủy - 2025\CDiem\obj\Debug\net8.0\CDiem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thiet_ke_lop\05. OOP_UIT. Thiết Lập-Phá Hủy - 2025\CDiem\obj\Debug\net8.0\CDiem.AssemblyInfoInputs.cache
+D:\Thiet_ke_lop\05. OOP_UIT. Thiết Lập-Phá Hủy - 2025\CDiem\obj\Debug\net8.0\CDiem.AssemblyInfo.cs
+D:\Thiet_ke_lop\05. OOP_UIT. Thiết Lập-Phá Hủy - 2025\CDiem\obj\Debug\net8.0\CDiem.csproj.CoreCompileInputs.cache

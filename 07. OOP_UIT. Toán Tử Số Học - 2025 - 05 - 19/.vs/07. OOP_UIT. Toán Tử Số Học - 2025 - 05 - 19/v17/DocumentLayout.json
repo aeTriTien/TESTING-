@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Thiet_ke_lop\\07. OOP_UIT. To\u00E1n T\u1EED S\u1ED1 H\u1ECDc - 2025 - 05 - 19\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF436CAE-DB42-430D-AC5D-D5CC130201EE}|CDiem\\CDiem.csproj|d:\\thiet_ke_lop\\07. oop_uit. to\u00E1n t\u1EED s\u1ED1 h\u1ECDc - 2025 - 05 - 19\\cdiem\\cdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF436CAE-DB42-430D-AC5D-D5CC130201EE}|CDiem\\CDiem.csproj|solutionrelative:cdiem\\cdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B07CD8AF-876C-4859-8012-D34A0EB658B6}|CHinhCau\\CHinhCau.csproj|d:\\thiet_ke_lop\\07. oop_uit. to\u00E1n t\u1EED s\u1ED1 h\u1ECDc - 2025 - 05 - 19\\chinhcau\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B07CD8AF-876C-4859-8012-D34A0EB658B6}|CHinhCau\\CHinhCau.csproj|solutionrelative:chinhcau\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{436A0EB9-2107-4114-B58E-651EF009894A}|CDiemKhongGian\\CDiemKhongGian.csproj|d:\\thiet_ke_lop\\07. oop_uit. to\u00E1n t\u1EED s\u1ED1 h\u1ECDc - 2025 - 05 - 19\\cdiemkhonggian\\cdiemkhonggian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{436A0EB9-2107-4114-B58E-651EF009894A}|CDiemKhongGian\\CDiemKhongGian.csproj|solutionrelative:cdiemkhonggian\\cdiemkhonggian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B097F9D3-9DF8-4395-94D3-5277659A7821}|CTamGiac\\CTamGiac.csproj|d:\\thiet_ke_lop\\07. oop_uit. to\u00E1n t\u1EED s\u1ED1 h\u1ECDc - 2025 - 05 - 19\\ctamgiac\\ctamgiac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B097F9D3-9DF8-4395-94D3-5277659A7821}|CTamGiac\\CTamGiac.csproj|solutionrelative:ctamgiac\\ctamgiac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43847377-F280-4ED9-8C99-E2B5E1087692}|CDuongThang\\CDuongThang.csproj|d:\\thiet_ke_lop\\07. oop_uit. to\u00E1n t\u1EED s\u1ED1 h\u1ECDc - 2025 - 05 - 19\\cduongthang\\cduongthang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43847377-F280-4ED9-8C99-E2B5E1087692}|CDuongThang\\CDuongThang.csproj|solutionrelative:cduongthang\\cduongthang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0858189-E2C1-4BFD-A9DD-C952B41F2782}|CDonThuc\\CDonThuc.csproj|d:\\thiet_ke_lop\\07. oop_uit. to\u00E1n t\u1EED s\u1ED1 h\u1ECDc - 2025 - 05 - 19\\cdonthuc\\cdonthuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0858189-E2C1-4BFD-A9DD-C952B41F2782}|CDonThuc\\CDonThuc.csproj|solutionrelative:cdonthuc\\cdonthuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C16D558-6526-46C8-9006-F3DCC1B538BD}|CThoiGian\\CThoiGian.csproj|d:\\thiet_ke_lop\\07. oop_uit. to\u00E1n t\u1EED s\u1ED1 h\u1ECDc - 2025 - 05 - 19\\cthoigian\\cthoigian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C16D558-6526-46C8-9006-F3DCC1B538BD}|CThoiGian\\CThoiGian.csproj|solutionrelative:cthoigian\\cthoigian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF0E53C-ABD3-4213-AD1B-702C7E6666C5}|CNgay\\CNgay.csproj|d:\\thiet_ke_lop\\07. oop_uit. to\u00E1n t\u1EED s\u1ED1 h\u1ECDc - 2025 - 05 - 19\\cngay\\cngay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF0E53C-ABD3-4213-AD1B-702C7E6666C5}|CNgay\\CNgay.csproj|solutionrelative:cngay\\cngay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86889FD4-DC04-4B9D-A225-A735783F8AA6}|CDaThuc\\CDaThuc.csproj|d:\\thiet_ke_lop\\07. oop_uit. to\u00E1n t\u1EED s\u1ED1 h\u1ECDc - 2025 - 05 - 19\\cdathuc\\cdathuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86889FD4-DC04-4B9D-A225-A735783F8AA6}|CDaThuc\\CDaThuc.csproj|solutionrelative:cdathuc\\cdathuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99406CBC-C05F-4AD7-A3D9-1A655BFF5251}|CPhanSo\\CPhanSo.csproj|d:\\thiet_ke_lop\\07. oop_uit. to\u00E1n t\u1EED s\u1ED1 h\u1ECDc - 2025 - 05 - 19\\cphanso\\cphanso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99406CBC-C05F-4AD7-A3D9-1A655BFF5251}|CPhanSo\\CPhanSo.csproj|solutionrelative:cphanso\\cphanso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5B97D33-ED73-4CA1-9B3C-33C95DA0FF42}|CSoPhuc\\CSoPhuc.csproj|d:\\thiet_ke_lop\\07. oop_uit. to\u00E1n t\u1EED s\u1ED1 h\u1ECDc - 2025 - 05 - 19\\csophuc\\csophuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5B97D33-ED73-4CA1-9B3C-33C95DA0FF42}|CSoPhuc\\CSoPhuc.csproj|solutionrelative:csophuc\\csophuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Thiet_ke_lop\\07. OOP_UIT. To\u00E1n T\u1EED S\u1ED1 H\u1ECDc - 2025 - 05 - 19\\CHinhCau\\Program.cs",
+              "RelativeDocumentMoniker": "CHinhCau\\Program.cs",
+              "ToolTip": "D:\\Thiet_ke_lop\\07. OOP_UIT. To\u00E1n T\u1EED S\u1ED1 H\u1ECDc - 2025 - 05 - 19\\CHinhCau\\Program.cs",
+              "RelativeToolTip": "CHinhCau\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAswEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T15:21:25.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CTamGiac.cs",
+              "DocumentMoniker": "D:\\Thiet_ke_lop\\07. OOP_UIT. To\u00E1n T\u1EED S\u1ED1 H\u1ECDc - 2025 - 05 - 19\\CTamGiac\\CTamGiac.cs",
+              "RelativeDocumentMoniker": "CTamGiac\\CTamGiac.cs",
+              "ToolTip": "D:\\Thiet_ke_lop\\07. OOP_UIT. To\u00E1n T\u1EED S\u1ED1 H\u1ECDc - 2025 - 05 - 19\\CTamGiac\\CTamGiac.cs",
+              "RelativeToolTip": "CTamGiac\\CTamGiac.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAuwAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T15:05:18.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CDuongThang.cs",
+              "DocumentMoniker": "D:\\Thiet_ke_lop\\07. OOP_UIT. To\u00E1n T\u1EED S\u1ED1 H\u1ECDc - 2025 - 05 - 19\\CDuongThang\\CDuongThang.cs",
+              "RelativeDocumentMoniker": "CDuongThang\\CDuongThang.cs",
+              "ToolTip": "D:\\Thiet_ke_lop\\07. OOP_UIT. To\u00E1n T\u1EED S\u1ED1 H\u1ECDc - 2025 - 05 - 19\\CDuongThang\\CDuongThang.cs",
+              "RelativeToolTip": "CDuongThang\\CDuongThang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T14:44:31.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CDiemKhongGian.cs",
+              "DocumentMoniker": "D:\\Thiet_ke_lop\\07. OOP_UIT. To\u00E1n T\u1EED S\u1ED1 H\u1ECDc - 2025 - 05 - 19\\CDiemKhongGian\\CDiemKhongGian.cs",
+              "RelativeDocumentMoniker": "CDiemKhongGian\\CDiemKhongGian.cs",
+              "ToolTip": "D:\\Thiet_ke_lop\\07. OOP_UIT. To\u00E1n T\u1EED S\u1ED1 H\u1ECDc - 2025 - 05 - 19\\CDiemKhongGian\\CDiemKhongGian.cs",
+              "RelativeToolTip": "CDiemKhongGian\\CDiemKhongGian.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T14:37:51.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CThoiGian.cs",
+              "DocumentMoniker": "D:\\Thiet_ke_lop\\07. OOP_UIT. To\u00E1n T\u1EED S\u1ED1 H\u1ECDc - 2025 - 05 - 19\\CThoiGian\\CThoiGian.cs",
+              "RelativeDocumentMoniker": "CThoiGian\\CThoiGian.cs",
+              "ToolTip": "D:\\Thiet_ke_lop\\07. OOP_UIT. To\u00E1n T\u1EED S\u1ED1 H\u1ECDc - 2025 - 05 - 19\\CThoiGian\\CThoiGian.cs",
+              "RelativeToolTip": "CThoiGian\\CThoiGian.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T14:16:05.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CNgay.cs",
+              "DocumentMoniker": "D:\\Thiet_ke_lop\\07. OOP_UIT. To\u00E1n T\u1EED S\u1ED1 H\u1ECDc - 2025 - 05 - 19\\CNgay\\CNgay.cs",
+              "RelativeDocumentMoniker": "CNgay\\CNgay.cs",
+              "ToolTip": "D:\\Thiet_ke_lop\\07. OOP_UIT. To\u00E1n T\u1EED S\u1ED1 H\u1ECDc - 2025 - 05 - 19\\CNgay\\CNgay.cs",
+              "RelativeToolTip": "CNgay\\CNgay.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAmwDsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T14:03:20.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CDiem.cs",
+              "DocumentMoniker": "D:\\Thiet_ke_lop\\07. OOP_UIT. To\u00E1n T\u1EED S\u1ED1 H\u1ECDc - 2025 - 05 - 19\\CDiem\\CDiem.cs",
+              "RelativeDocumentMoniker": "CDiem\\CDiem.cs",
+              "ToolTip": "D:\\Thiet_ke_lop\\07. OOP_UIT. To\u00E1n T\u1EED S\u1ED1 H\u1ECDc - 2025 - 05 - 19\\CDiem\\CDiem.cs",
+              "RelativeToolTip": "CDiem\\CDiem.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T13:46:27.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CDathuc.cs",
+              "DocumentMoniker": "D:\\Thiet_ke_lop\\07. OOP_UIT. To\u00E1n T\u1EED S\u1ED1 H\u1ECDc - 2025 - 05 - 19\\CDaThuc\\CDathuc.cs",
+              "RelativeDocumentMoniker": "CDaThuc\\CDathuc.cs",
+              "ToolTip": "D:\\Thiet_ke_lop\\07. OOP_UIT. To\u00E1n T\u1EED S\u1ED1 H\u1ECDc - 2025 - 05 - 19\\CDaThuc\\CDathuc.cs",
+              "RelativeToolTip": "CDaThuc\\CDathuc.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowDEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T05:17:00.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CDonThuc.cs",
+              "DocumentMoniker": "D:\\Thiet_ke_lop\\07. OOP_UIT. To\u00E1n T\u1EED S\u1ED1 H\u1ECDc - 2025 - 05 - 19\\CDonThuc\\CDonThuc.cs",
+              "RelativeDocumentMoniker": "CDonThuc\\CDonThuc.cs",
+              "ToolTip": "D:\\Thiet_ke_lop\\07. OOP_UIT. To\u00E1n T\u1EED S\u1ED1 H\u1ECDc - 2025 - 05 - 19\\CDonThuc\\CDonThuc.cs",
+              "RelativeToolTip": "CDonThuc\\CDonThuc.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAUwFYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T04:45:52.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CSoPhuc.cs",
+              "DocumentMoniker": "D:\\Thiet_ke_lop\\07. OOP_UIT. To\u00E1n T\u1EED S\u1ED1 H\u1ECDc - 2025 - 05 - 19\\CSoPhuc\\CSoPhuc.cs",
+              "RelativeDocumentMoniker": "CSoPhuc\\CSoPhuc.cs",
+              "ToolTip": "D:\\Thiet_ke_lop\\07. OOP_UIT. To\u00E1n T\u1EED S\u1ED1 H\u1ECDc - 2025 - 05 - 19\\CSoPhuc\\CSoPhuc.cs",
+              "RelativeToolTip": "CSoPhuc\\CSoPhuc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T03:50:39.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CPhanSo.cs",
+              "DocumentMoniker": "D:\\Thiet_ke_lop\\07. OOP_UIT. To\u00E1n T\u1EED S\u1ED1 H\u1ECDc - 2025 - 05 - 19\\CPhanSo\\CPhanSo.cs",
+              "RelativeDocumentMoniker": "CPhanSo\\CPhanSo.cs",
+              "ToolTip": "D:\\Thiet_ke_lop\\07. OOP_UIT. To\u00E1n T\u1EED S\u1ED1 H\u1ECDc - 2025 - 05 - 19\\CPhanSo\\CPhanSo.cs",
+              "RelativeToolTip": "CPhanSo\\CPhanSo.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA9wC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T03:25:19.81Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
