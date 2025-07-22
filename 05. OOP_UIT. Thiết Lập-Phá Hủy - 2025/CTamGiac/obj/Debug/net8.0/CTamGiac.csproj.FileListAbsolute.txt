@@ -1,0 +1,14 @@
+D:\Thiet_ke_lop\05. OOP_UIT. Thiết Lập-Phá Hủy - 2025\CTamGiac\obj\Debug\net8.0\CTamGiac.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thiet_ke_lop\05. OOP_UIT. Thiết Lập-Phá Hủy - 2025\CTamGiac\obj\Debug\net8.0\CTamGiac.AssemblyInfoInputs.cache
+D:\Thiet_ke_lop\05. OOP_UIT. Thiết Lập-Phá Hủy - 2025\CTamGiac\obj\Debug\net8.0\CTamGiac.AssemblyInfo.cs
+D:\Thiet_ke_lop\05. OOP_UIT. Thiết Lập-Phá Hủy - 2025\CTamGiac\obj\Debug\net8.0\CTamGiac.csproj.CoreCompileInputs.cache
+D:\Thiet_ke_lop\05. OOP_UIT. Thiết Lập-Phá Hủy - 2025\CTamGiac\bin\Debug\net8.0\CTamGiac.exe
+D:\Thiet_ke_lop\05. OOP_UIT. Thiết Lập-Phá Hủy - 2025\CTamGiac\bin\Debug\net8.0\CTamGiac.deps.json
+D:\Thiet_ke_lop\05. OOP_UIT. Thiết Lập-Phá Hủy - 2025\CTamGiac\bin\Debug\net8.0\CTamGiac.runtimeconfig.json
+D:\Thiet_ke_lop\05. OOP_UIT. Thiết Lập-Phá Hủy - 2025\CTamGiac\bin\Debug\net8.0\CTamGiac.dll
+D:\Thiet_ke_lop\05. OOP_UIT. Thiết Lập-Phá Hủy - 2025\CTamGiac\bin\Debug\net8.0\CTamGiac.pdb
+D:\Thiet_ke_lop\05. OOP_UIT. Thiết Lập-Phá Hủy - 2025\CTamGiac\obj\Debug\net8.0\CTamGiac.dll
+D:\Thiet_ke_lop\05. OOP_UIT. Thiết Lập-Phá Hủy - 2025\CTamGiac\obj\Debug\net8.0\refint\CTamGiac.dll
+D:\Thiet_ke_lop\05. OOP_UIT. Thiết Lập-Phá Hủy - 2025\CTamGiac\obj\Debug\net8.0\CTamGiac.pdb
+D:\Thiet_ke_lop\05. OOP_UIT. Thiết Lập-Phá Hủy - 2025\CTamGiac\obj\Debug\net8.0\CTamGiac.genruntimeconfig.cache
+D:\Thiet_ke_lop\05. OOP_UIT. Thiết Lập-Phá Hủy - 2025\CTamGiac\obj\Debug\net8.0\ref\CTamGiac.dll
