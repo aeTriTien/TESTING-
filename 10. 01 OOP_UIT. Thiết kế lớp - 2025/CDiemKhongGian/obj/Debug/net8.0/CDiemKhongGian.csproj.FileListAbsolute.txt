@@ -1,0 +1,14 @@
+D:\Thiet_ke_lop\10. 01 OOP_UIT. Thiết kế lớp - 2025\CDiemKhongGian\obj\Debug\net8.0\CDiemKhongGian.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thiet_ke_lop\10. 01 OOP_UIT. Thiết kế lớp - 2025\CDiemKhongGian\obj\Debug\net8.0\CDiemKhongGian.AssemblyInfoInputs.cache
+D:\Thiet_ke_lop\10. 01 OOP_UIT. Thiết kế lớp - 2025\CDiemKhongGian\obj\Debug\net8.0\CDiemKhongGian.AssemblyInfo.cs
+D:\Thiet_ke_lop\10. 01 OOP_UIT. Thiết kế lớp - 2025\CDiemKhongGian\obj\Debug\net8.0\CDiemKhongGian.csproj.CoreCompileInputs.cache
+D:\Thiet_ke_lop\10. 01 OOP_UIT. Thiết kế lớp - 2025\CDiemKhongGian\bin\Debug\net8.0\CDiemKhongGian.exe
+D:\Thiet_ke_lop\10. 01 OOP_UIT. Thiết kế lớp - 2025\CDiemKhongGian\bin\Debug\net8.0\CDiemKhongGian.deps.json
+D:\Thiet_ke_lop\10. 01 OOP_UIT. Thiết kế lớp - 2025\CDiemKhongGian\bin\Debug\net8.0\CDiemKhongGian.runtimeconfig.json
+D:\Thiet_ke_lop\10. 01 OOP_UIT. Thiết kế lớp - 2025\CDiemKhongGian\bin\Debug\net8.0\CDiemKhongGian.dll
+D:\Thiet_ke_lop\10. 01 OOP_UIT. Thiết kế lớp - 2025\CDiemKhongGian\bin\Debug\net8.0\CDiemKhongGian.pdb
+D:\Thiet_ke_lop\10. 01 OOP_UIT. Thiết kế lớp - 2025\CDiemKhongGian\obj\Debug\net8.0\CDiemKhongGian.dll
+D:\Thiet_ke_lop\10. 01 OOP_UIT. Thiết kế lớp - 2025\CDiemKhongGian\obj\Debug\net8.0\refint\CDiemKhongGian.dll
+D:\Thiet_ke_lop\10. 01 OOP_UIT. Thiết kế lớp - 2025\CDiemKhongGian\obj\Debug\net8.0\CDiemKhongGian.pdb
+D:\Thiet_ke_lop\10. 01 OOP_UIT. Thiết kế lớp - 2025\CDiemKhongGian\obj\Debug\net8.0\CDiemKhongGian.genruntimeconfig.cache
+D:\Thiet_ke_lop\10. 01 OOP_UIT. Thiết kế lớp - 2025\CDiemKhongGian\obj\Debug\net8.0\ref\CDiemKhongGian.dll

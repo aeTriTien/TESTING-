@@ -1,0 +1,14 @@
+D:\Thiet_ke_lop\10. 01 OOP_UIT. Thiết kế lớp - 2025\CDiem\obj\Debug\net8.0\CDiem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thiet_ke_lop\10. 01 OOP_UIT. Thiết kế lớp - 2025\CDiem\obj\Debug\net8.0\CDiem.AssemblyInfoInputs.cache
+D:\Thiet_ke_lop\10. 01 OOP_UIT. Thiết kế lớp - 2025\CDiem\obj\Debug\net8.0\CDiem.AssemblyInfo.cs
+D:\Thiet_ke_lop\10. 01 OOP_UIT. Thiết kế lớp - 2025\CDiem\obj\Debug\net8.0\CDiem.csproj.CoreCompileInputs.cache
+D:\Thiet_ke_lop\10. 01 OOP_UIT. Thiết kế lớp - 2025\CDiem\bin\Debug\net8.0\CDiem.exe
+D:\Thiet_ke_lop\10. 01 OOP_UIT. Thiết kế lớp - 2025\CDiem\bin\Debug\net8.0\CDiem.deps.json
+D:\Thiet_ke_lop\10. 01 OOP_UIT. Thiết kế lớp - 2025\CDiem\bin\Debug\net8.0\CDiem.runtimeconfig.json
+D:\Thiet_ke_lop\10. 01 OOP_UIT. Thiết kế lớp - 2025\CDiem\bin\Debug\net8.0\CDiem.dll
+D:\Thiet_ke_lop\10. 01 OOP_UIT. Thiết kế lớp - 2025\CDiem\bin\Debug\net8.0\CDiem.pdb
+D:\Thiet_ke_lop\10. 01 OOP_UIT. Thiết kế lớp - 2025\CDiem\obj\Debug\net8.0\CDiem.dll
+D:\Thiet_ke_lop\10. 01 OOP_UIT. Thiết kế lớp - 2025\CDiem\obj\Debug\net8.0\refint\CDiem.dll
+D:\Thiet_ke_lop\10. 01 OOP_UIT. Thiết kế lớp - 2025\CDiem\obj\Debug\net8.0\CDiem.pdb
+D:\Thiet_ke_lop\10. 01 OOP_UIT. Thiết kế lớp - 2025\CDiem\obj\Debug\net8.0\CDiem.genruntimeconfig.cache
+D:\Thiet_ke_lop\10. 01 OOP_UIT. Thiết kế lớp - 2025\CDiem\obj\Debug\net8.0\ref\CDiem.dll
