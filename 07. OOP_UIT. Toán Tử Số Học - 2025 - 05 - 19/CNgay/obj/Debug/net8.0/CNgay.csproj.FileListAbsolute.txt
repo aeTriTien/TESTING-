@@ -1,0 +1,14 @@
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CNgay\bin\Debug\net8.0\CNgay.exe
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CNgay\bin\Debug\net8.0\CNgay.deps.json
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CNgay\bin\Debug\net8.0\CNgay.runtimeconfig.json
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CNgay\bin\Debug\net8.0\CNgay.dll
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CNgay\bin\Debug\net8.0\CNgay.pdb
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CNgay\obj\Debug\net8.0\CNgay.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CNgay\obj\Debug\net8.0\CNgay.AssemblyInfoInputs.cache
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CNgay\obj\Debug\net8.0\CNgay.AssemblyInfo.cs
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CNgay\obj\Debug\net8.0\CNgay.csproj.CoreCompileInputs.cache
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CNgay\obj\Debug\net8.0\CNgay.dll
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CNgay\obj\Debug\net8.0\refint\CNgay.dll
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CNgay\obj\Debug\net8.0\CNgay.pdb
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CNgay\obj\Debug\net8.0\CNgay.genruntimeconfig.cache
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CNgay\obj\Debug\net8.0\ref\CNgay.dll

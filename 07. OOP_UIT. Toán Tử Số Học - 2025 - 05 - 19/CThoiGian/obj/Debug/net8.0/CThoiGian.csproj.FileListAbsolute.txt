@@ -1,0 +1,14 @@
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CThoiGian\bin\Debug\net8.0\CThoiGian.exe
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CThoiGian\bin\Debug\net8.0\CThoiGian.deps.json
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CThoiGian\bin\Debug\net8.0\CThoiGian.runtimeconfig.json
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CThoiGian\bin\Debug\net8.0\CThoiGian.dll
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CThoiGian\bin\Debug\net8.0\CThoiGian.pdb
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CThoiGian\obj\Debug\net8.0\CThoiGian.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CThoiGian\obj\Debug\net8.0\CThoiGian.AssemblyInfoInputs.cache
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CThoiGian\obj\Debug\net8.0\CThoiGian.AssemblyInfo.cs
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CThoiGian\obj\Debug\net8.0\CThoiGian.csproj.CoreCompileInputs.cache
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CThoiGian\obj\Debug\net8.0\CThoiGian.dll
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CThoiGian\obj\Debug\net8.0\refint\CThoiGian.dll
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CThoiGian\obj\Debug\net8.0\CThoiGian.pdb
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CThoiGian\obj\Debug\net8.0\CThoiGian.genruntimeconfig.cache
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CThoiGian\obj\Debug\net8.0\ref\CThoiGian.dll

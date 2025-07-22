@@ -1,0 +1,14 @@
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CDuongThang\bin\Debug\net8.0\CDuongThang.exe
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CDuongThang\bin\Debug\net8.0\CDuongThang.deps.json
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CDuongThang\bin\Debug\net8.0\CDuongThang.runtimeconfig.json
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CDuongThang\bin\Debug\net8.0\CDuongThang.dll
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CDuongThang\bin\Debug\net8.0\CDuongThang.pdb
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CDuongThang\obj\Debug\net8.0\CDuongThang.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CDuongThang\obj\Debug\net8.0\CDuongThang.AssemblyInfoInputs.cache
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CDuongThang\obj\Debug\net8.0\CDuongThang.AssemblyInfo.cs
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CDuongThang\obj\Debug\net8.0\CDuongThang.csproj.CoreCompileInputs.cache
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CDuongThang\obj\Debug\net8.0\CDuongThang.dll
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CDuongThang\obj\Debug\net8.0\refint\CDuongThang.dll
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CDuongThang\obj\Debug\net8.0\CDuongThang.pdb
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CDuongThang\obj\Debug\net8.0\CDuongThang.genruntimeconfig.cache
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CDuongThang\obj\Debug\net8.0\ref\CDuongThang.dll

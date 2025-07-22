@@ -1,0 +1,14 @@
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CDonThuc\bin\Debug\net8.0\CDonThuc.exe
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CDonThuc\bin\Debug\net8.0\CDonThuc.deps.json
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CDonThuc\bin\Debug\net8.0\CDonThuc.runtimeconfig.json
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CDonThuc\bin\Debug\net8.0\CDonThuc.dll
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CDonThuc\bin\Debug\net8.0\CDonThuc.pdb
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CDonThuc\obj\Debug\net8.0\CDonThuc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CDonThuc\obj\Debug\net8.0\CDonThuc.AssemblyInfoInputs.cache
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CDonThuc\obj\Debug\net8.0\CDonThuc.AssemblyInfo.cs
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CDonThuc\obj\Debug\net8.0\CDonThuc.csproj.CoreCompileInputs.cache
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CDonThuc\obj\Debug\net8.0\CDonThuc.dll
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CDonThuc\obj\Debug\net8.0\refint\CDonThuc.dll
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CDonThuc\obj\Debug\net8.0\CDonThuc.pdb
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CDonThuc\obj\Debug\net8.0\CDonThuc.genruntimeconfig.cache
+D:\Thiet_ke_lop\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\CDonThuc\obj\Debug\net8.0\ref\CDonThuc.dll
